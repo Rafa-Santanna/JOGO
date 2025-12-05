@@ -6,4 +6,4 @@ Linguagens utlizadas: GDscript, JS, HTML e CSS
 ## Acesso ao jogo
 O jogo pode ser acessado pelo site: [Plubum.com.br](https://plubum.com.br/)
 <br>
-Ou descompactando o arquivo acima.
+Ou entrar em contato com o Email: rafaella.santanna2010@gmail.com
